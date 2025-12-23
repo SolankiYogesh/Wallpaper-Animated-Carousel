@@ -1,2 +1,3 @@
 ## Preview
-<video src="https://raw.githubusercontent.com/SolankiYogesh/Wallpaper-Animated-Carousel/main/Preview.mp4" controls width="600"></video>
+https://github.com/user-attachments/assets/477a536f-2633-4a20-a416-93960ab488e2
+
